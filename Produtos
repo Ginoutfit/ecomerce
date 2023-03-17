@@ -4,18 +4,62 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catálogo</title>
+    <title>Ginoutfits</title>
 </head>
 <body>
     <header>
         <a href="">Sale</a><br>
 
-        <a href="">Cadastre-se</a><br>
+        <a href="Cadastro.html">Cadastre-se</a><br>
 
-        <a href="">Outfits Completos</a><br>
+        <a href="">Tênis</a> <a href="">Outfits</a> <a href="">Acessórios</a>
     </header>
     <body>
-        <a href="https://www.shop-pineapple.co/nike-x-ebay-sb-dunk-low-sandy-novo-"><img src="https://pbs.twimg.com/media/FloS5ujWYAAW7im?format=jpg&name=medium"width="290" alt="200"></a>
+    <h2>Mais Vendidos</h2>
+        <table border="5">
+            <thead>
+                <tr>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>
+                        <a href=""> <img src="https://www.kicksonfire.com/wp-content/uploads/2020/02/StrangeLove-x-Nike-SB-Dunk-Low-Valentine%E2%80%99s-Day-9.jpg" width="290" height="200"> </a>
+                            <a href=""></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h3>NIKE x STRANGELOVE <br>
+                            SKATEBOARDS</h3>
+                        <h3>SB Dunk Low "Valentine's Day"</h3>
+                        <h4>12x de R$ 838,75</h4>
+                        <h5>A partir de R$ 10.065,00</h5>
+                    </td>
+                </tr>
+            </thead>
+        </table>
+        <table border="5">
+            <thead>
+                <tr>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>
+                        <a href=""><img src="" width="290" height="200"> </a>
+                            <a href=""></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h3>DUNK EBAY<br>
+                          SKATEBOARDS</h3>
+                        <h3>Sb Dunk Low "Ebay"</h3>
+                        <h4>12x de R$ 830,90</h4>
+                        <h5>A partir de R$ 7.400</h5>
+                    </td>
+                </tr>
+            </thead>
+        </table>
     </body>  
 </body>
 </html>
