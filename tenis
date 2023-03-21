@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="Ofertas.css">
     <title>Ginoutfits/tenis</title>
 </head>
 <body>
@@ -81,5 +82,17 @@
             </tr>
         </thead>
     </table>
+    <div class="rodape">
+        <footer>
+            <h2>
+                <p> Fale Conosco </p>
+            </h2>
+            <p>
+                <a href="https://www.instagram.com/gin.outfit/" target="_blank">@gin.outfit</a> /
+                (42) 99912-6012 /
+                ginoutfit@gmail.com
+            </p>
+        </footer>
+    </div>
 </body>
 </html>
